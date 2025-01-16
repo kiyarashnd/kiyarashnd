@@ -1,26 +1,16 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kiyarash+Github+Account....;Nice+to+meet+you!&center=true&size=30">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+Kouros'+GitHub+Profile!;Frontend+Developer+and+Lifelong+Learner;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;" display="flex">
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=kiyarashnd&show_icons=true&theme=react&border_color=61dafb&hide_border=true"  width="80%"/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=kiyarashnd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" 
-    style="width: auto height: auto; border-radius: 8px;"
-    alt="GitHub Stats"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyarashnd&powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&langs_count=8&hide_border=true" 
-    style="width: auto; height: auto; border-radius: 8px;"
-    alt="Top Languages"
-  />
-
-</div>
-
+ <div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyarashnd&powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&langs_count=8&hide_border=true" align="center" width="80%"/>
+ </div>
 
 <div>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyarashnd&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
