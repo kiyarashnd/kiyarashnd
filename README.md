@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;" width="100%" height="200px">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;" width="100%" height="200px">
 
 <img  src="https://github-readme-stats.vercel.app/api?username=kiyarashnd&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyarashnd&powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&langs_count=8&hide_border=true"/>
