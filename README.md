@@ -5,7 +5,7 @@
 </h1>
 
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;" display="flex">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=kiyarashnd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" 
